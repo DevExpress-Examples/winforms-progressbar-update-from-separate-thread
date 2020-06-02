@@ -40,7 +40,6 @@
             this.realProgress1.Name = "realProgress1";
             this.realProgress1.Size = new System.Drawing.Size(556, 97);
             this.realProgress1.TabIndex = 3;
-            this.realProgress1.Load += new System.EventHandler(this.realProgress1_Load);
             // 
             // simpleButton1
             // 
