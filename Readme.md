@@ -6,7 +6,7 @@
 
 # WinForms Progress Bar - Update the progress from a separate thread
 
-This example shows how to perform a file copy operation in a background thread and indicate progress of the operation on the main form. The [WinForms Progress Bar](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.ProgressBarControl) control is used to communicate operation state and provide feedback to end users.
+This example shows how to perform a file copy operation in a background thread and indicate progress of the operation on the main form. The [WinForms Progress Bar](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.ProgressBarControl) control is used to communicate operation state and supply feedback to end users.
 
 > **Note**
 >
