@@ -23,7 +23,7 @@ This example shows how to perform a file copy operation in a background thread a
 ## See Also
 
 * [How to dynamically change Wait Form's labels](https://github.com/DevExpress-Examples/how-to-dynamically-change-a-wait-forms-labels-e3575)
-* [DevExpress WinForms Troubleshooting - Asynchronous Programming](https://go.devexpress.com/CheatSheets_WinForms_Examples_T964838.aspx)
+* [DevExpress WinForms Troubleshooting - Asynchronous Programming](https://supportcenter.devexpress.com/ticket/details/t964838/devexpress-winforms-troubleshooting-asynchronous-programming)
 
 
 <!-- feedback -->
@@ -33,3 +33,4 @@ This example shows how to perform a file copy operation in a background thread a
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
